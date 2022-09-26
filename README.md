@@ -11,6 +11,6 @@ aktuálnych štandardov, princípov a technológií s tým súvisiacich. Po abso
 4. [Cvičenia](cvicenia)
 5. [Prednášky](prednasky)
 
-
 ## Oznamy
-1. 
+
+1.  
