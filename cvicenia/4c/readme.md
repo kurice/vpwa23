@@ -124,7 +124,7 @@ export const store = reactive({
 </template>
 ```
 
-## Knižnica Vuex, použitie v Qusare
+## Knižnica Vuex, použitie v Quasare
 
 Ako sme si ukázali v predošlej časti, v menších projektoch si dokážeme vytvoriť **store** priamočiaro. Vo väčších projektoch si to pýta komplexnejší aparát. Pri vytváraní **Quasar projektu** sa nás sprievodca opýta, či chceme použiť v projekte **Vuex**. [Vuex](https://vuex.vuejs.org/) je knižnica, ktorá prináša podporu state managementu (storu) do našej [Quasar aplikácie](https://quasar.dev/quasar-cli/vuex-store).
 
