@@ -1,4 +1,4 @@
-# Quasar: Použitie storu (Vuex) s TypesSriptom
+# Quasar: Použitie storu (Vuex) s TypeSriptom
 V predošlej časti sme používali v Quasar projekte JavaScript. Ukážme si použitie storu v Quasar projekte s TypeScriptom. Prináša to určité rozdiely.
 Vytvorme si nový Quasar projekt, pričom v sprievodcovi povoľme balíčky Vuex a TypeScript (odporúčam aj ESLint, používam preset Standard), component style vyberme "Options API", package manager NPM.
 
