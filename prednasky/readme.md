@@ -7,7 +7,7 @@
 2. [Vue.js: reaktivita, komponenty, životný cyklus komponentu, jednosmerné/obojsmerné previazanie, metódy, watch/conputed, props, slot, udalosti, podmienené vykresľovanie, zoznamy, state management](zdroje/2p-vuejs.pdf)
 
 3. TypeScript - nevyhnutné základy:
-    * [Úvod](zdroje/3p-ts-01-intro.pdf), [TypeScript Quasar projekt z prednášky](zdroje/3p-quasar.zip)  
+    * [Úvod](zdroje/3p-ts-01-intro.pdf)
     * [Základné typy](zdroje/3p-ts-02-basic-types.pdf)  
     * [Funkcie, podmienky](zdroje/3p-ts-03-functions-conditions.pdf)  
     * [Triedy a rozhrania](zdroje/4p-ts-04-classes-interfaces.pdf)
