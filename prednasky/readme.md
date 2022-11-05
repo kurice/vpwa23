@@ -13,3 +13,5 @@
     * [Triedy a rozhrania](zdroje/4p-ts-04-classes-interfaces.pdf)
     * [Operátory typov, genericita](zdroje/4p-ts-05-type-operators-generics.pdf)
     * [Moduly](zdroje/4p-ts-06-moduls.pdf)
+
+4. [Backend: AdonisJS, Node.js, základné koncepty: routing, HTTP Context, controller, middleware, database (query builder, raw query, ORM), auth, HTTP vs websocket](zdroje/5p-be-adonisjs.pdf)
