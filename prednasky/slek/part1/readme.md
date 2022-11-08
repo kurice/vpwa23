@@ -66,7 +66,7 @@ node ace configure @adonisjs/lucid
 
 Nainštalujme samotný SQLite DBMS:  
 ```console
-npm i @vscode/sqlite3
+npm i sqlite3
 ```
 
 Vytvorme v priečinku ``tmp/`` súbor ``db.sqlite3`` pre našu SQLite databázu:
