@@ -13,4 +13,4 @@ aktuálnych štandardov, princípov a technológií s tým súvisiacich. Po abso
 
 ## Oznamy
 
-1.  
+1. Finálne odovzdanie projektu je 18. 12., prezentácia je v pondelok 19. 12., je možné odovzdať a prezentovať aj skôr, a teda 12. 12.
