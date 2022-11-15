@@ -995,7 +995,7 @@ declare module '@ioc:Repositories/MessageRepository' {
 }
 ```
 
-V súbore ``app/providers/AppProvider.ts`` v metóde ``register`` zaregistrujme vytvorenie inštancie``MessageRepository`` kontajnera:
+V súbore ``./providers/AppProvider.ts`` v metóde ``register`` zaregistrujme vytvorenie inštancie``MessageRepository`` kontajnera:
 ```ts
 public register() {
   // bind our implementation of MessageRepository to container
