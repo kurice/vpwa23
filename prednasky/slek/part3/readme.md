@@ -932,7 +932,7 @@ Metóda ``addMessage`` uloží správu do databázy a prešíri (broadcast) ju v
 
 Vidíme, že obidve metódy v controlleri ``MessageController`` používajú ``MessageRepository``. Našim cieľom je udržiavať biznis logiku controllerov čo najpriamočiarejšiu (aby neobsahovali dlhý špagetový kód). 
 
-Preto vytvoríme IoC kontajner ``MessageRepository`` ([viac o IoS kontajneroch v dokumentácii](https://legacy.adonisjs.com/docs/4.1/ioc-container)), v ktorom bude oddelená logika na zrealizovanie dopytov do DB a vytvorenie inštancie správy. 
+Preto vytvoríme IoC kontajner ``MessageRepository`` ([viac o IoC kontajneroch v dokumentácii](https://legacy.adonisjs.com/docs/4.1/ioc-container)), v ktorom bude oddelená logika na zrealizovanie dopytov do DB a vytvorenie inštancie správy. 
 
 Vytvorme v priečinku ``app`` priečinok ``Repositories`` a v ňom súbor ``MessageRepository.ts`` s týmto kódom:
 
