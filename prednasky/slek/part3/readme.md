@@ -510,7 +510,7 @@ export abstract class SocketManager implements SocketManagerContract {
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
   protected emitAsync<T> (event: string, ...args: any[]): Promise<T> {
     return new Promise((resolve, reject) => {
-      this.socket.emit(event, ...args, ([error, response]: [Error | null, T]) => {
+      this.socket.emit(event, ...args, (error: Error | null, response: T) => {
         error ? reject(error) : resolve(response)
       })
     })
