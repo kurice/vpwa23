@@ -649,7 +649,7 @@ V store module ``channels`` budeme mať uložené správy pre kanály. Kľúčom
 Vytvorme cez Quasar CLI nový store module ``channels``:
 
 ```console
-quasar new store -f ts channels
+quasar new store -f ts module-channels
 ```
 
 ### <a name="anchor41-state"></a> Store modul channels: state
