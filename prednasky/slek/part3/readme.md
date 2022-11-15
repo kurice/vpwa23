@@ -964,7 +964,7 @@ Vidíme, že ``MessageRepository`` deklaruje metódy ``getAll`` a ``create``. ``
 
 ### <a name="anchor62-contracts"></a> Kontrakty pre kontajner MessageRepository
 
-Vytvorme v priečinku ``app/contracts`` súbor ``repositories.ts``:
+Vytvorme v priečinku ``./contracts`` súbor ``repositories.ts``:
 
 ```ts
 // here we are declaring our MessageRepository types for Repositories/MessageRepository
