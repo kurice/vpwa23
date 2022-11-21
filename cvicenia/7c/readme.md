@@ -79,7 +79,7 @@ CMD ["quasar", "serve"]
 ```
 **Spustite build** podľa novovytvoreného Dockerfile (z priečinka slek-client):
 ```
-docker build -f Dockerfile --build-arg=http://localhost:3333 --tag=slek-client-image .
+docker build -f Dockerfile --build-arg API_URL=http://localhost:3333 --tag=slek-client-image .
 ```
 Spustite slek-client z **vytvoreného Docker image**:
 ```
