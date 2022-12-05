@@ -19,3 +19,6 @@
 
 8. [DevOps 2. časť - AWS, nasadenie v cloude](8c/)
     * [Slajdy DevOps 2. časť](8c/zdroje/vpwa-cvicenie-devops-2-cast-kompozicia-sluzieb-nasadenie-v-cloude-aws.pdf)
+
+9. [DevOps 3. časť - Nasadenie v cloude 2 (CDN, S3, RDS, Azure)](9c/)
+    * [Slajdy DevOps 3. časť](9c/zdroje/vpwa-cvicenie-devops-3-cast-nasadenie-v-cloude-2-cdn-s3-rds-azure.pdf)
