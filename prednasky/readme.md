@@ -32,4 +32,4 @@
 7. [SSR, SSG, Hydration, PWA](zdroje/9p-pwa-ssr.pdf)
     * [Example Vue SSR](zdroje/example-vue-ssr.js)
     * [Example Vue SSR Express Framework](zdroje/server-express.js)
-    * [Hydration Client](zdroje/hydration/client-hydration.js), [Hydration Server](zdroje/hydration/server-hydration.js.js), [Hydration Universal Code](zdroje/hydration/app-hydration.js) 
+    * [Hydration Client](zdroje/hydration/client-hydration.js), [Hydration Server](zdroje/hydration/server-hydration.js), [Hydration Universal Code](zdroje/hydration/app-hydration.js) 
