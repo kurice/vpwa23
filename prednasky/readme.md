@@ -28,3 +28,8 @@
     * [DevOps, 1. časť: Mikroslužby, HW architektúry, virtualizácia a virtuálne stroje, kontajnerizované aplikácie (Docker)](zdroje/6p-devops-01-mikrosluzby-virtualizacia-docker.pdf)
     * [DevOps, 2. časť: Cloud computing, orchestrácia kontajnerov, AWS, stratégie nasadzovania a best practices](zdroje/7p-devops-02-cloud-orchestracia-aws.pdf)
     * [DevOps, 3. časť: Dostupnosť služby, CDN, zálohy, CI/CD, testovanie aplikácií (TDD), bezpečnosť](zdroje/8p-devops-03-dostupnost-CDN-CICD-TDD-bezpecnost.pdf)
+
+7. [SSR, SSG, Hydration, PWA](zdroje/9p-pwa-ssr.pdf)
+    * [Example Vue SSR](zdroje/example-vue-ssr.js)
+    * [Example Vue SSR Express Framework](zdroje/server-express.js)
+    * [Hydration Client](zdroje/hydration/client-hydration.js), [Hydration Server](zdroje/hydration/server-hydration.js.js), [Hydration Universal Code](zdroje/hydration/app-hydration.js) 
